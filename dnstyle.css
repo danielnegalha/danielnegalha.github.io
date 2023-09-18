@@ -12,7 +12,7 @@ p
 {
     font-size: 20px;
     color: white;   
-    text-align: center;
+    
 }
 #Lois
 {
@@ -30,4 +30,8 @@ p
 #danny
 {
 width: 800px;
+}
+#AM
+{
+    margin-left: 255px;
 }
