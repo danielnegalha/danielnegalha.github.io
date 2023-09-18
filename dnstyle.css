@@ -16,14 +16,14 @@ p
 }
 #Lois
 {
-    float:right;
+    margin-left:10px ;
 }
 #dietcoke
 {
     border: white 2px;
-    float:center;
+    margin-left: 175px;
 }
 #Pietro
 {
-    margin-left: 5px;
+    margin-left: 150px;
 }
