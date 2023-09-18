@@ -17,15 +17,16 @@ p
 #Lois
 {
     margin-left:10px ;
+    
 }
 #dietcoke
 {
-    border: white 2px;
-    margin-left: 175px;
+    
+    margin-left: 70px;
 }
 #Pietro
 {
-    margin-left: 150px;
+    margin-left: 75px;
 }
 #danny
 {
@@ -34,4 +35,9 @@ width: 800px;
 #AM
 {
     margin-left: 255px;
+}
+#pp
+{
+    font-size: 30px;
+    margin-left: 85px;
 }
