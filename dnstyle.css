@@ -12,7 +12,7 @@ p
 {
     font-size: 20px;
     color: white;   
-    align-items:center;
+    text-align: center;
 }
 #Lois
 {
@@ -26,4 +26,8 @@ p
 #Pietro
 {
     margin-left: 150px;
+}
+#danny
+{
+width: 800px;
 }
